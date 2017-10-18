@@ -8,6 +8,9 @@ namespace EspePocket.Pages
     {
         public Reglamento()
         {
+			var navega1;
+			var navega2;
+			var navega3;
             Title = "Reglamentos";
             var browser = new WebView
             {
